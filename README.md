@@ -13,5 +13,5 @@ __# Opencv-Python-車牌辨識__
 
 ```mermaid
 flowchart TD;
-  A-->B;
+  模糊降躁-->定位車牌-->定位標誌符-->比較正確性
 ```
