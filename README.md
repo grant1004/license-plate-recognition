@@ -9,9 +9,9 @@ __# Opencv-Python-車牌辨識__
   6. Top Hat、Black Hat 演算法
 
 # 辨識車牌流程
-[模糊降躁、二值化處理]
-[利用 CClabeling 去除雜點]
+
+
 ```mermaid
 flowchart TD;
-     A-->B;
+     [模糊降躁、二值化處理]-->[利用 CClabeling 去除雜點];
 ```
