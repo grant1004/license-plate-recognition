@@ -13,5 +13,5 @@ __# Opencv-Python-車牌辨識__
 
 ```mermaid
 flowchart TD;
-     模糊降躁-->去除雜點 ;
+  A-->B;
 ```
