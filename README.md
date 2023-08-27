@@ -32,6 +32,8 @@ flowchart TD;
   > 4. 利用台灣車牌比例比較label比例取得車牌座標
   > 5. 利用座標將車牌從原圖剪下
 
+  ![image](https://github.com/grant1004/license-plate-recognition/blob/main/temp/%E6%9C%AA%E5%91%BD%E5%90%8D3.png)
+
   ### 定位標誌符 
   > 1. Resize車牌（200*550）
   > 2. 利用Black-Hat演算法加強車牌字體
