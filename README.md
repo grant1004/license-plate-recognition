@@ -18,7 +18,7 @@ flowchart TD;
 ```
   ### 影像前處裡
   > 1. Resize影像
-  > 2. 高斯模糊降躁
+  > 2. 高斯模糊降躁 ![image](https://github.com/grant1004/license-plate-recognition/blob/main/temp/%E6%9C%AA%E5%91%BD%E5%90%8D.png)
   > 3. 值方均值化 -> 去除光害
   > 4. 將影像轉成二值圖
 
