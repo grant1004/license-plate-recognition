@@ -33,6 +33,7 @@ flowchart TD;
   > 5. 利用座標將車牌從原圖剪下
 
   ![image](https://github.com/grant1004/license-plate-recognition/blob/main/temp/%E6%9C%AA%E5%91%BD%E5%90%8D3.png)
+  ![image](https://github.com/grant1004/license-plate-recognition/blob/main/license/out_1_Train01.jpg)
 
   ### 定位標誌符 
   > 1. Resize車牌（200*550）
