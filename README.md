@@ -11,8 +11,5 @@ __# Opencv-Python-車牌辨識__
 # 辨識車牌流程
 ```mermaid
 flowchart TD;
-     A[模糊降躁、二值化處理]-->B;
-     A-->C;
-     B-->D;
-     C-->D;
+     A[模糊降躁、二值化處理]-->B[利用 CClabeling 去除雜點];
 ```
