@@ -21,7 +21,9 @@ flowchart TD;
   > 2. 高斯模糊降躁 
   > 3. 值方均值化 -> 去除光害
   > 4. 將影像轉成二值圖
+
   ![image](https://github.com/grant1004/license-plate-recognition/blob/main/temp/%E6%9C%AA%E5%91%BD%E5%90%8D.png)
+  ![image](https://github.com/grant1004/license-plate-recognition/blob/main/temp/%E6%9C%AA%E5%91%BD%E5%90%8D4.png)
 
   ### 定位車牌
   > 1. 利用CClabeling 去除二值圖中的雜點
